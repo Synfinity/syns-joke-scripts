@@ -122,7 +122,7 @@ local function SPJEOBX_fake_script() -- ButSheRejectedMe.MainScript
 		elseif iaminlove == 5 then
 			script.Parent.TextLabel.Text = thingtable.PersonToSimpFor .. " is poggers"
 		elseif iaminlove == 6 then
-			script.Parent.TextLabel.Text = thingtable.PersonToSimpFor .. " is not as hot as arden but close"
+			script.Parent.TextLabel.Text = thingtable.PersonToSimpFor .. " is someone i would let stomp on me"
 		elseif iaminlove == 7 then
 			script.Parent.TextLabel.Text = thingtable.PersonToSimpFor .. " is pretty"
 		elseif iaminlove == 8 then
